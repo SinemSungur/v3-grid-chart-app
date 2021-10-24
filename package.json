@@ -8,9 +8,16 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "ag-grid-community": "^26.1.0",
+    "ag-grid-enterprise": "^26.1.0",
+    "ag-grid-vue3": "^26.1.2",
+    "apexcharts": "^3.29.0",
+    "axios": "^0.23.0",
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
+    "vue-class-component": "^8.0.0-rc.1",
     "vue-router": "^4.0.0-0",
+    "vue3-apexcharts": "^1.4.1",
     "vuex": "^4.0.0-0"
   },
   "devDependencies": {
