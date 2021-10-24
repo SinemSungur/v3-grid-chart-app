@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div class="home__content">
-      <h1 class="title">SEO.DO Interview</h1>
+      <h1 class="title">V3 Grid & Chart Appgit </h1>
     </div>
     <GridContainer></GridContainer>
     <Modal></Modal>
